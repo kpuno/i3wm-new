@@ -1,6 +1,0 @@
-2024/04/16-03:54:46.543 712 Reusing MANIFEST /home/kylepuno/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
-2024/04/16-03:54:46.547 712 Recovering log #3
-2024/04/16-03:54:46.550 712 Reusing old log /home/kylepuno/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000003.log 
-2024/04/16-03:54:57.299 710 Level-0 table #5: started
-2024/04/16-03:54:57.303 710 Level-0 table #5: 55732 bytes OK
-2024/04/16-03:54:57.306 710 Delete type=0 #3

@@ -1,6 +1,0 @@
-2024/04/16-01:43:10.843 566 Creating DB /home/kylepuno/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb since it was missing.
-2024/04/16-01:43:10.848 566 Reusing MANIFEST /home/kylepuno/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/04/16-01:43:10.859 566 Level-0 table #5: started
-2024/04/16-01:43:10.862 566 Level-0 table #5: 758 bytes OK
-2024/04/16-01:43:10.868 566 Delete type=0 #3
-2024/04/16-01:43:10.868 566 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
