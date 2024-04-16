@@ -1,0 +1,9 @@
+2024/04/16-03:54:46.550 4 Reusing MANIFEST /home/kylepuno/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2024/04/16-03:54:46.552 4 Recovering log #68
+2024/04/16-03:54:46.553 4 Reusing old log /home/kylepuno/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000068.log 
+2024/04/16-04:08:33.705 6 Level-0 table #72: started
+2024/04/16-04:08:33.719 6 Level-0 table #72: 18763 bytes OK
+2024/04/16-04:08:33.725 6 Delete type=0 #68
+2024/04/16-04:30:49.649 4 Level-0 table #74: started
+2024/04/16-04:30:50.084 4 Level-0 table #74: 16516 bytes OK
+2024/04/16-04:30:50.095 4 Delete type=0 #71
